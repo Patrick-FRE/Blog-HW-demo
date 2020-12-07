@@ -1,0 +1,12 @@
+.heading-1{
+    font-size: var(--heading-1);
+}
+.heading-2{
+    font-size: var(--heading-2);
+}
+.heading-3{
+    font-size: var(--heading-3);
+}
+.heading-4{
+    font-size: var(--heading-4);
+}
