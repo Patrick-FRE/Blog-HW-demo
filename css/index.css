@@ -7,6 +7,9 @@
 /* CSS Reset */
 @import url('./reset.css');
 
+/* utils */
+@import url('./utils.css');
+
 /* typography */
 @import url('./typography.css');
 
@@ -16,4 +19,4 @@
 @import url('./layout.css');
 
 /* Card */
-@import url('./card.css')
+@import url('./card.css');
